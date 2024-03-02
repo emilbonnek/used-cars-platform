@@ -16,6 +16,7 @@
     "valibot": "^0.29.0"
   },
   "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
     "@tanstack/router-devtools": "^1.18.1",
     "@tanstack/router-vite-plugin": "^1.18.1",
     "@types/react": "^18.2.56",
