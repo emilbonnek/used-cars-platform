@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "c454d81e-0e77-46d4-9114-42fbeb205329",
+    "brand": "Citroën",
+    "year": 2003,
+    "name": "Colorado",
+    "priceDKK": 618000,
+    "kilometersDriven": 450882,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "74f9750c-6a6c-408c-817f-830c9884a485",
+    "brand": "Citroën",
+    "year": 2012,
+    "name": "Durango",
+    "priceDKK": 815000,
+    "kilometersDriven": 15778,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "30be0cc9-368d-4773-b1d0-92325ae55cec",
+    "brand": "Skoda",
+    "year": 2017,
+    "name": "2",
+    "priceDKK": 295000,
+    "kilometersDriven": 287694,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "4b05ac21-1ac2-4e7b-9c2a-f024734cf384",
+    "brand": "FIAT",
+    "year": 2008,
+    "name": "Beetle",
+    "priceDKK": 254000,
+    "kilometersDriven": 5290,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f5bae4e5-3e5e-4d90-8dde-28fbb4615f6b",
+    "brand": "SEAT",
+    "year": 2012,
+    "name": "Challenger",
+    "priceDKK": 232000,
+    "kilometersDriven": 340658,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "17c68e48-d830-4697-a118-1213f575f5b3",
+    "brand": "Skoda",
+    "year": 2020,
+    "name": "Model Y",
+    "priceDKK": 174000,
+    "kilometersDriven": 295806,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "38711359-e948-4fc4-a26c-1cde064c39b7",
+    "brand": "Honda",
+    "year": 2011,
+    "name": "Impala",
+    "priceDKK": 410000,
+    "kilometersDriven": 816607,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "b3a79496-f094-480d-a26e-9620fdf868bb",
+    "brand": "FIAT",
+    "year": 2013,
+    "name": "Element",
+    "priceDKK": 867000,
+    "kilometersDriven": 711073,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "4c0ef673-ba66-4238-8f09-b2d3e5ac90d9",
+    "brand": "Dacia",
+    "year": 2007,
+    "name": "Camry",
+    "priceDKK": 81000,
+    "kilometersDriven": 812990,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "512e6541-47c7-4b3c-919d-53713ba138a1",
+    "brand": "Volvo",
+    "year": 2004,
+    "name": "ATS",
+    "priceDKK": 437000,
+    "kilometersDriven": 304782,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "973cad23-9460-4533-b674-b3d61ff8b0ce",
+    "brand": "Skoda",
+    "year": 2022,
+    "name": "Challenger",
+    "priceDKK": 784000,
+    "kilometersDriven": 335114,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "8d219491-46e1-4cba-98d3-cc78e0da29e2",
+    "brand": "SEAT",
+    "year": 2017,
+    "name": "F-150",
+    "priceDKK": 448000,
+    "kilometersDriven": 901309,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "4c62105a-7f77-4025-92a5-a60ec3aea65d",
+    "brand": "Toyota",
+    "year": 2012,
+    "name": "Impala",
+    "priceDKK": 447000,
+    "kilometersDriven": 991072,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "8d6f9a5b-ba59-462a-810e-d43644fe0360",
+    "brand": "SEAT",
+    "year": 2005,
+    "name": "Spyder",
+    "priceDKK": 632000,
+    "kilometersDriven": 564907,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "69b27bf5-2169-44a5-a705-2e4ae4b1a0f4",
+    "brand": "Renault",
+    "year": 2005,
+    "name": "Accord",
+    "priceDKK": 358000,
+    "kilometersDriven": 146548,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "fcf5881a-d640-4547-a2c3-fc81be02220d",
+    "brand": "FIAT",
+    "year": 2012,
+    "name": "Colorado",
+    "priceDKK": 392000,
+    "kilometersDriven": 530355,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "465dd5c0-a1da-45cb-a7b4-e4e91b07c8a8",
+    "brand": "SEAT",
+    "year": 2024,
+    "name": "Impala",
+    "priceDKK": 132000,
+    "kilometersDriven": 930643,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "cd63b86e-415f-4dd9-b768-1dcf3cf163c0",
+    "brand": "Volkswagen",
+    "year": 2006,
+    "name": "Wrangler",
+    "priceDKK": 795000,
+    "kilometersDriven": 872135,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "7a91ff64-9e55-4b3c-b557-9935a0ac08b9",
+    "brand": "Volkswagen",
+    "year": 2008,
+    "name": "Model X",
+    "priceDKK": 298000,
+    "kilometersDriven": 263134,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "5e55508a-e904-408e-97d4-67f009f95b79",
+    "brand": "FIAT",
+    "year": 2007,
+    "name": "Fiesta",
+    "priceDKK": 625000,
+    "kilometersDriven": 269695,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "a5815eb5-ea7b-46bf-9825-70d973e2ed99",
+    "brand": "SEAT",
+    "year": 2006,
+    "name": "El Camino",
+    "priceDKK": 981000,
+    "kilometersDriven": 950486,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "1f45ba89-b292-4f15-965d-b9779509c69b",
+    "brand": "Honda",
+    "year": 2012,
+    "name": "911",
+    "priceDKK": 702000,
+    "kilometersDriven": 592750,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "071835f0-b785-4528-8844-97913158cbc9",
+    "brand": "SEAT",
+    "year": 2017,
+    "name": "Fortwo",
+    "priceDKK": 348000,
+    "kilometersDriven": 442919,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "8b3abb0b-e51e-48b9-8ea7-42019ca73ece",
+    "brand": "Dacia",
+    "year": 2000,
+    "name": "A8",
+    "priceDKK": 19000,
+    "kilometersDriven": 241204,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "e7c07772-349f-45b3-9b4e-c00ff3cf53ec",
+    "brand": "FIAT",
+    "year": 2022,
+    "name": "Jetta",
+    "priceDKK": 467000,
+    "kilometersDriven": 320052,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "c5e146c4-33e1-4191-89bc-aab731deffb8",
+    "brand": "BMW",
+    "year": 2002,
+    "name": "Model T",
+    "priceDKK": 514000,
+    "kilometersDriven": 583266,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "63bd54a8-2339-4fb4-872b-6571c0f35813",
+    "brand": "Citroën",
+    "year": 2004,
+    "name": "CTS",
+    "priceDKK": 204000,
+    "kilometersDriven": 741566,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "437a957d-be8f-446e-b9eb-b1ee0cc1ade1",
+    "brand": "Peugeot",
+    "year": 2002,
+    "name": "A4",
+    "priceDKK": 950000,
+    "kilometersDriven": 222304,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "78a7ec94-c4f2-4f86-a5db-d2ea2d339309",
+    "brand": "Dacia",
+    "year": 2017,
+    "name": "Colorado",
+    "priceDKK": 131000,
+    "kilometersDriven": 500191,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "0acada14-8504-42b4-8b33-77b782a2afdf",
+    "brand": "Toyota",
+    "year": 2023,
+    "name": "Explorer",
+    "priceDKK": 794000,
+    "kilometersDriven": 877218,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "ba43b7fc-ce9f-49a7-9cc4-7b92d020424c",
+    "brand": "Volvo",
+    "year": 2011,
+    "name": "El Camino",
+    "priceDKK": 685000,
+    "kilometersDriven": 289178,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f2ecce14-a184-4669-aaaa-8f154ce41ae3",
+    "brand": "Citroën",
+    "year": 2000,
+    "name": "Countach",
+    "priceDKK": 948000,
+    "kilometersDriven": 377849,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "dbdc7304-80a5-4647-aab4-c5b4953274e4",
+    "brand": "Peugeot",
+    "year": 2008,
+    "name": "Beetle",
+    "priceDKK": 881000,
+    "kilometersDriven": 724086,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "0afcdd12-01ff-4bc2-8e16-7e8b5311b4e6",
+    "brand": "SEAT",
+    "year": 2008,
+    "name": "911",
+    "priceDKK": 723000,
+    "kilometersDriven": 885732,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "675ff062-d9c8-404b-ae27-b6d4c8ca564b",
+    "brand": "Toyota",
+    "year": 2012,
+    "name": "Element",
+    "priceDKK": 828000,
+    "kilometersDriven": 88910,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "9f925366-4a8b-46c3-bc9b-7790e19e76e2",
+    "brand": "Skoda",
+    "year": 2012,
+    "name": "Focus",
+    "priceDKK": 760000,
+    "kilometersDriven": 440967,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "faed6a2b-067d-4ecd-82fd-d0393d14c660",
+    "brand": "SEAT",
+    "year": 2003,
+    "name": "911",
+    "priceDKK": 960000,
+    "kilometersDriven": 363201,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "b63d5025-548b-4856-a424-f43a43494627",
+    "brand": "Skoda",
+    "year": 2009,
+    "name": "Civic",
+    "priceDKK": 44000,
+    "kilometersDriven": 143183,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "7723af75-fdd1-48fd-98a6-784085fb7d22",
+    "brand": "Peugeot",
+    "year": 2013,
+    "name": "Cruze",
+    "priceDKK": 717000,
+    "kilometersDriven": 867397,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "d9e771f2-6ba9-4d20-929c-0e068c97d740",
+    "brand": "Citroën",
+    "year": 2001,
+    "name": "Roadster",
+    "priceDKK": 506000,
+    "kilometersDriven": 347610,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "710fee33-9727-4743-921b-54792a46a20c",
+    "brand": "Toyota",
+    "year": 2014,
+    "name": "Golf",
+    "priceDKK": 393000,
+    "kilometersDriven": 415618,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f51dc0d7-862e-4191-a9bd-6d86865251cd",
+    "brand": "BMW",
+    "year": 2006,
+    "name": "Jetta",
+    "priceDKK": 870000,
+    "kilometersDriven": 669314,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "4b4f0c90-ee74-4c4b-915b-0274e1ff3e4f",
+    "brand": "Skoda",
+    "year": 2008,
+    "name": "Wrangler",
+    "priceDKK": 427000,
+    "kilometersDriven": 798692,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "9d707396-01da-43f0-9f61-1b23f218a5c8",
+    "brand": "Toyota",
+    "year": 2002,
+    "name": "Sentra",
+    "priceDKK": 279000,
+    "kilometersDriven": 353939,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "0de30888-8f77-4a5d-89fb-6b49134e4cd9",
+    "brand": "FIAT",
+    "year": 2001,
+    "name": "Charger",
+    "priceDKK": 493000,
+    "kilometersDriven": 192652,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "eadfca54-359c-409d-8866-1340ff8c038f",
+    "brand": "BMW",
+    "year": 2012,
+    "name": "Cruze",
+    "priceDKK": 363000,
+    "kilometersDriven": 123387,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "d6b45ed6-4bbd-4d99-9e28-da5875755cd9",
+    "brand": "FIAT",
+    "year": 2008,
+    "name": "1",
+    "priceDKK": 351000,
+    "kilometersDriven": 483425,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "727a810d-d562-4934-bfc5-70044b2fb36f",
+    "brand": "Honda",
+    "year": 2021,
+    "name": "XTS",
+    "priceDKK": 858000,
+    "kilometersDriven": 414776,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "43f96d54-2a36-472e-be0e-0620ce371344",
+    "brand": "SEAT",
+    "year": 2024,
+    "name": "Model S",
+    "priceDKK": 235000,
+    "kilometersDriven": 892112,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "7f840215-00b2-4be6-ac22-0a5259112321",
+    "brand": "BMW",
+    "year": 2005,
+    "name": "Aventador",
+    "priceDKK": 473000,
+    "kilometersDriven": 8461,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "98f33de9-0857-46f3-9b45-2e1196f262ed",
+    "brand": "Dacia",
+    "year": 2003,
+    "name": "Silverado",
+    "priceDKK": 16000,
+    "kilometersDriven": 438451,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "7d941c9a-1a67-4080-a1c8-a4ba04f1f289",
+    "brand": "Volkswagen",
+    "year": 2020,
+    "name": "Sentra",
+    "priceDKK": 550000,
+    "kilometersDriven": 872781,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "9d1d2b30-7d7e-4b4a-87ab-934039bf33ea",
+    "brand": "Toyota",
+    "year": 2006,
+    "name": "Taurus",
+    "priceDKK": 258000,
+    "kilometersDriven": 43749,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "4e396ba6-a45c-40ef-a4f8-fb59e3d4f675",
+    "brand": "BMW",
+    "year": 2013,
+    "name": "Model X",
+    "priceDKK": 655000,
+    "kilometersDriven": 685291,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "8c152958-2351-4982-bd76-79fd570bc9a1",
+    "brand": "Skoda",
+    "year": 2006,
+    "name": "Colorado",
+    "priceDKK": 941000,
+    "kilometersDriven": 786885,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "e9dd546f-a9ac-4f17-9649-cf6bd42eca4b",
+    "brand": "BMW",
+    "year": 2012,
+    "name": "Corvette",
+    "priceDKK": 431000,
+    "kilometersDriven": 66673,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "944489ed-9beb-4f94-bde9-39858526783f",
+    "brand": "Renault",
+    "year": 2020,
+    "name": "Element",
+    "priceDKK": 690000,
+    "kilometersDriven": 651747,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "dfb08569-9ba7-4b4a-ae6c-a229a46d9701",
+    "brand": "SEAT",
+    "year": 2009,
+    "name": "ATS",
+    "priceDKK": 593000,
+    "kilometersDriven": 912589,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "e6596824-f4da-452e-acd5-4325c18f2b92",
+    "brand": "FIAT",
+    "year": 2010,
+    "name": "Model X",
+    "priceDKK": 653000,
+    "kilometersDriven": 938040,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "89c57c02-5c9a-42f1-8cfb-4751cf1d892f",
+    "brand": "Honda",
+    "year": 2010,
+    "name": "F-150",
+    "priceDKK": 228000,
+    "kilometersDriven": 658773,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "93055c0e-3d7f-49fb-b463-2490f7f7e0ed",
+    "brand": "Citroën",
+    "year": 2022,
+    "name": "Grand Caravan",
+    "priceDKK": 667000,
+    "kilometersDriven": 156223,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "ebffce27-fc86-421e-8667-59c6ed30944e",
+    "brand": "Renault",
+    "year": 2013,
+    "name": "Altima",
+    "priceDKK": 321000,
+    "kilometersDriven": 824157,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "2296a35b-808a-4cb2-9460-93eed0489be0",
+    "brand": "Skoda",
+    "year": 2016,
+    "name": "911",
+    "priceDKK": 250000,
+    "kilometersDriven": 997231,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f7891d3c-5b55-4bb2-a92d-813b7015f61b",
+    "brand": "Volvo",
+    "year": 2021,
+    "name": "Taurus",
+    "priceDKK": 306000,
+    "kilometersDriven": 894166,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "5546a7ee-2a3d-4404-bfcf-0d79ffb0b01e",
+    "brand": "SEAT",
+    "year": 2000,
+    "name": "Camaro",
+    "priceDKK": 525000,
+    "kilometersDriven": 456890,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "e702c1f1-c814-4bd8-80e3-e8b9896196b8",
+    "brand": "Renault",
+    "year": 2010,
+    "name": "Model S",
+    "priceDKK": 516000,
+    "kilometersDriven": 168318,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "b1c719aa-82a7-4600-afe3-a9fb4476ff67",
+    "brand": "Volvo",
+    "year": 2000,
+    "name": "Alpine",
+    "priceDKK": 138000,
+    "kilometersDriven": 623777,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "05b54d49-b0b8-4ab3-9a48-73cfdc0603b5",
+    "brand": "SEAT",
+    "year": 2000,
+    "name": "Escalade",
+    "priceDKK": 323000,
+    "kilometersDriven": 37197,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "e345c5dd-6e0a-4c64-9b84-58309123858a",
+    "brand": "Peugeot",
+    "year": 2024,
+    "name": "CTS",
+    "priceDKK": 157000,
+    "kilometersDriven": 931917,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "7b034d2f-bb1d-45dd-8675-7a1f822cdf16",
+    "brand": "BMW",
+    "year": 2012,
+    "name": "Grand Caravan",
+    "priceDKK": 33000,
+    "kilometersDriven": 189271,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "00b4075f-17a1-4d52-80e1-a592689765e1",
+    "brand": "Honda",
+    "year": 2012,
+    "name": "Land Cruiser",
+    "priceDKK": 954000,
+    "kilometersDriven": 35270,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "e972a80d-04cd-498e-985e-be54860f9b28",
+    "brand": "Volkswagen",
+    "year": 2020,
+    "name": "XTS",
+    "priceDKK": 405000,
+    "kilometersDriven": 156072,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "5507f222-1965-434e-a74c-6a82289734c1",
+    "brand": "Skoda",
+    "year": 2024,
+    "name": "Model X",
+    "priceDKK": 472000,
+    "kilometersDriven": 725600,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "fa170c1f-bb23-451f-97ae-4366c641f78f",
+    "brand": "BMW",
+    "year": 2014,
+    "name": "1",
+    "priceDKK": 528000,
+    "kilometersDriven": 289477,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "dd563b10-a845-4d5a-b37f-210983ff0e68",
+    "brand": "Toyota",
+    "year": 2008,
+    "name": "PT Cruiser",
+    "priceDKK": 480000,
+    "kilometersDriven": 873992,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "21d2c03f-1abb-4d70-9fb3-1603bf00d4f0",
+    "brand": "Skoda",
+    "year": 2018,
+    "name": "Corvette",
+    "priceDKK": 818000,
+    "kilometersDriven": 554742,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "02d9c666-e44e-498e-8daf-c564b1cd54e9",
+    "brand": "Peugeot",
+    "year": 2015,
+    "name": "Ranchero",
+    "priceDKK": 555000,
+    "kilometersDriven": 716761,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "ce04acc5-4c12-4259-a420-036e345bdf9a",
+    "brand": "BMW",
+    "year": 2004,
+    "name": "PT Cruiser",
+    "priceDKK": 51000,
+    "kilometersDriven": 245391,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "e76875ae-2250-4e07-ae42-8175478e4de8",
+    "brand": "Peugeot",
+    "year": 2001,
+    "name": "Countach",
+    "priceDKK": 663000,
+    "kilometersDriven": 578224,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "fa584168-3cd0-4791-bf55-5416f453dfc1",
+    "brand": "Peugeot",
+    "year": 2012,
+    "name": "Explorer",
+    "priceDKK": 260000,
+    "kilometersDriven": 283737,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "0daed738-3819-4803-b828-2f6f3f6da72a",
+    "brand": "Dacia",
+    "year": 2015,
+    "name": "Alpine",
+    "priceDKK": 471000,
+    "kilometersDriven": 635112,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "5eb8ef10-8162-44b3-8e12-d01bd4740b78",
+    "brand": "SEAT",
+    "year": 2001,
+    "name": "Element",
+    "priceDKK": 948000,
+    "kilometersDriven": 380379,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "05efcdd2-57a8-4baa-b5c1-bf459584fa66",
+    "brand": "Volkswagen",
+    "year": 2022,
+    "name": "Beetle",
+    "priceDKK": 378000,
+    "kilometersDriven": 132405,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "908a2510-8e7d-4296-836f-f1d85a3ba6bb",
+    "brand": "Dacia",
+    "year": 2006,
+    "name": "ATS",
+    "priceDKK": 160000,
+    "kilometersDriven": 207542,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "370864d8-f906-4bb0-a3b2-b297acf77076",
+    "brand": "SEAT",
+    "year": 2014,
+    "name": "Beetle",
+    "priceDKK": 773000,
+    "kilometersDriven": 682428,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "db416e83-676d-4b7a-b590-cc2ed2e97e6c",
+    "brand": "Volkswagen",
+    "year": 2011,
+    "name": "Focus",
+    "priceDKK": 85000,
+    "kilometersDriven": 749937,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "8ddb268e-c2ad-4cea-abc4-fa043f167a82",
+    "brand": "Volkswagen",
+    "year": 2000,
+    "name": "Model T",
+    "priceDKK": 17000,
+    "kilometersDriven": 673377,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "0664472b-4e2c-4d63-8a0a-c9eaf6ebc58b",
+    "brand": "Volkswagen",
+    "year": 2005,
+    "name": "Camaro",
+    "priceDKK": 832000,
+    "kilometersDriven": 984197,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "da620945-4313-4ea3-b160-89a4a357f771",
+    "brand": "FIAT",
+    "year": 2001,
+    "name": "Jetta",
+    "priceDKK": 967000,
+    "kilometersDriven": 526129,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "7e9cbf0f-5d46-41db-b76a-1004d8827085",
+    "brand": "Skoda",
+    "year": 2019,
+    "name": "CTS",
+    "priceDKK": 746000,
+    "kilometersDriven": 330251,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "adcc2bfb-6ea5-4bae-a88d-aa4621ff7118",
+    "brand": "Skoda",
+    "year": 2014,
+    "name": "Wrangler",
+    "priceDKK": 975000,
+    "kilometersDriven": 25178,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "d56ebd52-726a-4275-be09-3e760276100a",
+    "brand": "Toyota",
+    "year": 2002,
+    "name": "CX-9",
+    "priceDKK": 316000,
+    "kilometersDriven": 765541,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "7abf839a-60ec-422c-9bb3-f0c28ae940d8",
+    "brand": "Renault",
+    "year": 2020,
+    "name": "F-150",
+    "priceDKK": 952000,
+    "kilometersDriven": 62027,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "b31282da-baa8-4638-8d0f-4c846519cc5e",
+    "brand": "Volkswagen",
+    "year": 2020,
+    "name": "911",
+    "priceDKK": 564000,
+    "kilometersDriven": 619654,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "50d0885a-ac09-4647-9a21-cb4a31d83cf8",
+    "brand": "BMW",
+    "year": 2024,
+    "name": "Beetle",
+    "priceDKK": 615000,
+    "kilometersDriven": 167726,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "88f595d7-955b-4cb6-be29-c99c14fe58a5",
+    "brand": "Dacia",
+    "year": 2008,
+    "name": "Model T",
+    "priceDKK": 691000,
+    "kilometersDriven": 516792,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "77fbf9fd-9cef-42cd-8c1c-6851e5a132bc",
+    "brand": "Honda",
+    "year": 2008,
+    "name": "2",
+    "priceDKK": 630000,
+    "kilometersDriven": 490559,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f0101cc5-db73-4ca3-a295-bf3513878e6b",
+    "brand": "Skoda",
+    "year": 2011,
+    "name": "LeBaron",
+    "priceDKK": 959000,
+    "kilometersDriven": 405427,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "080abac1-5e3f-42be-b3c3-f0e44c3f7abb",
+    "brand": "Volvo",
+    "year": 2010,
+    "name": "Fortwo",
+    "priceDKK": 516000,
+    "kilometersDriven": 58599,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "a0c5e5e8-f1b9-48ab-9d23-a915c19da489",
+    "brand": "Peugeot",
+    "year": 2019,
+    "name": "Malibu",
+    "priceDKK": 702000,
+    "kilometersDriven": 968619,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "edab3573-903f-4814-9b7d-b0af2a2043cd",
+    "brand": "Volvo",
+    "year": 2019,
+    "name": "1",
+    "priceDKK": 660000,
+    "kilometersDriven": 376443,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "6df42da8-d6b9-49de-be48-f90a99930dee",
+    "brand": "Honda",
+    "year": 2004,
+    "name": "Civic",
+    "priceDKK": 944000,
+    "kilometersDriven": 985007,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "86606015-8539-41e6-99c8-338cd825a3c0",
+    "brand": "Skoda",
+    "year": 2005,
+    "name": "Grand Caravan",
+    "priceDKK": 257000,
+    "kilometersDriven": 874818,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "60531281-0da9-4169-8633-2dd8d8df5d54",
+    "brand": "SEAT",
+    "year": 2012,
+    "name": "Expedition",
+    "priceDKK": 377000,
+    "kilometersDriven": 817822,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "91a0eda9-a081-4253-b168-ffcd5d9d8194",
+    "brand": "FIAT",
+    "year": 2009,
+    "name": "Ranchero",
+    "priceDKK": 868000,
+    "kilometersDriven": 76915,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "1d59607c-854e-4dc4-9cd9-483b9cb7dde6",
+    "brand": "FIAT",
+    "year": 2023,
+    "name": "Colorado",
+    "priceDKK": 526000,
+    "kilometersDriven": 419439,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "09c4e0bb-0510-4bc8-aafa-fb0809c297c7",
+    "brand": "SEAT",
+    "year": 2023,
+    "name": "XTS",
+    "priceDKK": 636000,
+    "kilometersDriven": 81154,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "057e64ca-85d4-490e-81e0-9f80b8fc56b8",
+    "brand": "Honda",
+    "year": 2003,
+    "name": "Fiesta",
+    "priceDKK": 283000,
+    "kilometersDriven": 773128,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "b52943ed-cb86-4323-ac07-9d3e77c639cd",
+    "brand": "Peugeot",
+    "year": 2023,
+    "name": "LeBaron",
+    "priceDKK": 894000,
+    "kilometersDriven": 233141,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "614e3f25-4212-4c41-b2eb-f26944b39d58",
+    "brand": "Volkswagen",
+    "year": 2013,
+    "name": "Fiesta",
+    "priceDKK": 451000,
+    "kilometersDriven": 735121,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "122f737d-f6a6-48d8-8f5e-66cffc62345d",
+    "brand": "Skoda",
+    "year": 2023,
+    "name": "Challenger",
+    "priceDKK": 473000,
+    "kilometersDriven": 224876,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "0c809dbb-abc2-4490-8b61-75dd2281df9d",
+    "brand": "Renault",
+    "year": 2003,
+    "name": "El Camino",
+    "priceDKK": 678000,
+    "kilometersDriven": 663514,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "7f5bc471-a087-44a3-8748-7b8eb6db35d7",
+    "brand": "Dacia",
+    "year": 2019,
+    "name": "A8",
+    "priceDKK": 134000,
+    "kilometersDriven": 935861,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "999ce5fb-5a6a-4013-9ada-8c1f7512d925",
+    "brand": "FIAT",
+    "year": 2016,
+    "name": "Taurus",
+    "priceDKK": 769000,
+    "kilometersDriven": 965046,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "89a8998a-1151-4653-98e0-dc45987d68e4",
+    "brand": "Volvo",
+    "year": 2012,
+    "name": "Golf",
+    "priceDKK": 459000,
+    "kilometersDriven": 761485,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f1121de8-2e62-441b-820a-cf5d4ee9faf6",
+    "brand": "Peugeot",
+    "year": 2022,
+    "name": "Golf",
+    "priceDKK": 702000,
+    "kilometersDriven": 564116,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "4d64ba2b-dc90-484f-aafe-16772cd90082",
+    "brand": "Skoda",
+    "year": 2007,
+    "name": "Malibu",
+    "priceDKK": 320000,
+    "kilometersDriven": 736412,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f91901ca-71d6-4d68-8812-8652e824e200",
+    "brand": "SEAT",
+    "year": 2021,
+    "name": "CTS",
+    "priceDKK": 692000,
+    "kilometersDriven": 337201,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "a8f06e05-bcb2-4a42-a357-253369c86d8e",
+    "brand": "Dacia",
+    "year": 2006,
+    "name": "Model X",
+    "priceDKK": 539000,
+    "kilometersDriven": 313873,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "66fa5409-d768-4279-8ee2-059e8c66d7c9",
+    "brand": "Renault",
+    "year": 2022,
+    "name": "F-150",
+    "priceDKK": 471000,
+    "kilometersDriven": 537202,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f59f9353-e395-4025-b808-ba39d1468de4",
+    "brand": "FIAT",
+    "year": 2015,
+    "name": "Element",
+    "priceDKK": 516000,
+    "kilometersDriven": 783215,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "54e93f7a-ed3e-48fe-b264-b22f70e314c7",
+    "brand": "BMW",
+    "year": 2022,
+    "name": "Alpine",
+    "priceDKK": 184000,
+    "kilometersDriven": 743699,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "ef27d8ea-1609-4b39-84a3-d407d36165bb",
+    "brand": "SEAT",
+    "year": 2015,
+    "name": "Beetle",
+    "priceDKK": 187000,
+    "kilometersDriven": 971723,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "edb2cbdc-5c13-455a-a800-9db998dbfb27",
+    "brand": "Citroën",
+    "year": 2005,
+    "name": "ATS",
+    "priceDKK": 302000,
+    "kilometersDriven": 957916,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "2b533d59-987b-4eac-9b03-21362a327afa",
+    "brand": "Dacia",
+    "year": 2005,
+    "name": "Model T",
+    "priceDKK": 937000,
+    "kilometersDriven": 688630,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "66c68b38-e423-454f-a63f-9fc3e86e898c",
+    "brand": "Renault",
+    "year": 2005,
+    "name": "XTS",
+    "priceDKK": 496000,
+    "kilometersDriven": 654046,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "0123be3d-d97b-4fa7-9f9d-9f5b0e213a0e",
+    "brand": "Renault",
+    "year": 2000,
+    "name": "Silverado",
+    "priceDKK": 134000,
+    "kilometersDriven": 70269,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "09a5fb01-cb5d-40dc-bb67-8cf164f8854c",
+    "brand": "Volvo",
+    "year": 2018,
+    "name": "Golf",
+    "priceDKK": 243000,
+    "kilometersDriven": 934242,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "0c64447c-352d-4cc6-b177-94f608b0e2a8",
+    "brand": "Volvo",
+    "year": 2021,
+    "name": "CX-9",
+    "priceDKK": 776000,
+    "kilometersDriven": 64404,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "08ac619c-aeec-4783-a137-f001d37a5991",
+    "brand": "Dacia",
+    "year": 2005,
+    "name": "Expedition",
+    "priceDKK": 422000,
+    "kilometersDriven": 320168,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "8e606a67-72c1-4abe-afae-549d19366b60",
+    "brand": "Volvo",
+    "year": 2022,
+    "name": "Mustang",
+    "priceDKK": 372000,
+    "kilometersDriven": 383997,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "505017e4-f386-44ca-ae4d-48be41bea3a1",
+    "brand": "Renault",
+    "year": 2020,
+    "name": "Mustang",
+    "priceDKK": 775000,
+    "kilometersDriven": 598039,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "6d141b0b-59fa-4953-a792-4f8461abc324",
+    "brand": "FIAT",
+    "year": 2015,
+    "name": "Wrangler",
+    "priceDKK": 986000,
+    "kilometersDriven": 394823,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "87d34e3b-f31f-44e2-8bf6-49d7d32e5caa",
+    "brand": "Volvo",
+    "year": 2012,
+    "name": "PT Cruiser",
+    "priceDKK": 759000,
+    "kilometersDriven": 342200,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f5cc0ad1-0c6b-4607-968e-18657791271f",
+    "brand": "SEAT",
+    "year": 2000,
+    "name": "Silverado",
+    "priceDKK": 665000,
+    "kilometersDriven": 418513,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "0e36b7d4-f463-4811-a503-d1e1659afd73",
+    "brand": "SEAT",
+    "year": 2018,
+    "name": "Land Cruiser",
+    "priceDKK": 265000,
+    "kilometersDriven": 769250,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "1a623ebe-3527-442c-b585-e0abd941fd8a",
+    "brand": "Toyota",
+    "year": 2010,
+    "name": "Wrangler",
+    "priceDKK": 345000,
+    "kilometersDriven": 377957,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "7cb14588-dd0c-4dc6-9170-97c21bd0ed6c",
+    "brand": "Skoda",
+    "year": 2013,
+    "name": "Element",
+    "priceDKK": 66000,
+    "kilometersDriven": 716550,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "82d8c122-d8a0-423b-89ab-1a574d9b1d60",
+    "brand": "BMW",
+    "year": 2006,
+    "name": "Grand Cherokee",
+    "priceDKK": 515000,
+    "kilometersDriven": 126819,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "6f392094-a2e4-4050-8c0a-dee88c5eaaf4",
+    "brand": "Toyota",
+    "year": 2018,
+    "name": "LeBaron",
+    "priceDKK": 337000,
+    "kilometersDriven": 98394,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "5faa02f6-0835-4159-b18d-3de5e009eaaf",
+    "brand": "Honda",
+    "year": 2018,
+    "name": "Model S",
+    "priceDKK": 858000,
+    "kilometersDriven": 289854,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "26ee840b-364c-4fd4-bd2c-f4baa00c32b1",
+    "brand": "SEAT",
+    "year": 2000,
+    "name": "Volt",
+    "priceDKK": 493000,
+    "kilometersDriven": 706037,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "2dc23428-014e-4f6b-be91-7d0abe776bd1",
+    "brand": "FIAT",
+    "year": 2016,
+    "name": "Malibu",
+    "priceDKK": 288000,
+    "kilometersDriven": 99707,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "0b029073-661f-4add-839b-aed34cfa3965",
+    "brand": "FIAT",
+    "year": 2024,
+    "name": "Grand Cherokee",
+    "priceDKK": 645000,
+    "kilometersDriven": 795151,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "d3fc5f3c-5073-43d4-a028-5923edb9d2d7",
+    "brand": "FIAT",
+    "year": 2024,
+    "name": "Charger",
+    "priceDKK": 342000,
+    "kilometersDriven": 469156,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "14cf9065-4dd8-4d6a-ab7c-87d473ee2177",
+    "brand": "SEAT",
+    "year": 2012,
+    "name": "Escalade",
+    "priceDKK": 512000,
+    "kilometersDriven": 829686,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "3ce695bf-26b9-4760-9781-2022ec1548ff",
+    "brand": "Volvo",
+    "year": 2008,
+    "name": "Countach",
+    "priceDKK": 476000,
+    "kilometersDriven": 737453,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "2eb62b9b-6c0c-4b88-bbcf-ec51b18e6d31",
+    "brand": "Toyota",
+    "year": 2000,
+    "name": "XTS",
+    "priceDKK": 909000,
+    "kilometersDriven": 510660,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "1ef3bd91-1268-4d89-bdda-63f43c848c91",
+    "brand": "Citroën",
+    "year": 2007,
+    "name": "Aventador",
+    "priceDKK": 720000,
+    "kilometersDriven": 921988,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "939ae11b-522b-43e0-8b05-cbecca62764b",
+    "brand": "Renault",
+    "year": 2022,
+    "name": "Civic",
+    "priceDKK": 781000,
+    "kilometersDriven": 59312,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "b7a65667-91d3-4870-85aa-2cf0acc9af8e",
+    "brand": "FIAT",
+    "year": 2005,
+    "name": "Fiesta",
+    "priceDKK": 491000,
+    "kilometersDriven": 621473,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "a28ccdc6-fad7-4593-936c-d012a23881fd",
+    "brand": "SEAT",
+    "year": 2011,
+    "name": "A4",
+    "priceDKK": 215000,
+    "kilometersDriven": 514614,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "8fdfefd1-e481-4e07-b4ba-0162854ff5cc",
+    "brand": "Dacia",
+    "year": 2005,
+    "name": "Model Y",
+    "priceDKK": 275000,
+    "kilometersDriven": 613524,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f6d15ab8-bce7-452b-ac74-c2c833491855",
+    "brand": "Honda",
+    "year": 2005,
+    "name": "Model S",
+    "priceDKK": 334000,
+    "kilometersDriven": 24274,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "e277a507-992e-436e-b0f2-e28306cafac8",
+    "brand": "Peugeot",
+    "year": 2014,
+    "name": "Spyder",
+    "priceDKK": 103000,
+    "kilometersDriven": 709203,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f7df79e6-4caa-48cc-98ab-c000eb680910",
+    "brand": "Citroën",
+    "year": 2010,
+    "name": "Silverado",
+    "priceDKK": 364000,
+    "kilometersDriven": 354381,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "c7919f50-5652-460d-aa32-061fd55d0c07",
+    "brand": "Volkswagen",
+    "year": 2000,
+    "name": "CTS",
+    "priceDKK": 512000,
+    "kilometersDriven": 900942,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "c6e08681-70a0-4135-8677-737040f0ca15",
+    "brand": "Honda",
+    "year": 2010,
+    "name": "XC90",
+    "priceDKK": 417000,
+    "kilometersDriven": 822848,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "37b78f22-f3d5-4065-91e0-5a849fd3ee8a",
+    "brand": "Honda",
+    "year": 2007,
+    "name": "Mustang",
+    "priceDKK": 890000,
+    "kilometersDriven": 327213,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "860e7017-229a-4f93-824a-ea9bfadc62ad",
+    "brand": "Citroën",
+    "year": 2005,
+    "name": "Model S",
+    "priceDKK": 515000,
+    "kilometersDriven": 444074,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f55bd048-8d05-43f3-95ed-17f609f8bb14",
+    "brand": "Renault",
+    "year": 2004,
+    "name": "Model S",
+    "priceDKK": 483000,
+    "kilometersDriven": 680179,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "2e41dd65-d0f8-4921-8141-44ab03eeee8a",
+    "brand": "Volkswagen",
+    "year": 2007,
+    "name": "Model T",
+    "priceDKK": 295000,
+    "kilometersDriven": 726720,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "28d71544-4bbc-49bd-b543-b673b00bdde7",
+    "brand": "Skoda",
+    "year": 2012,
+    "name": "XTS",
+    "priceDKK": 145000,
+    "kilometersDriven": 382556,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "c32bb51c-ce4d-4522-a045-a599f7e1e9ca",
+    "brand": "Volkswagen",
+    "year": 2009,
+    "name": "Wrangler",
+    "priceDKK": 34000,
+    "kilometersDriven": 112082,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f43917b8-a23b-4984-98e8-387fe31d73b5",
+    "brand": "Honda",
+    "year": 2009,
+    "name": "El Camino",
+    "priceDKK": 327000,
+    "kilometersDriven": 187314,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "acd30df7-4460-46fd-a291-7559da7ccec5",
+    "brand": "Dacia",
+    "year": 2001,
+    "name": "Explorer",
+    "priceDKK": 445000,
+    "kilometersDriven": 713097,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "826023ca-bb78-45fc-ab8b-9d8c71e1802a",
+    "brand": "BMW",
+    "year": 2015,
+    "name": "Expedition",
+    "priceDKK": 846000,
+    "kilometersDriven": 421386,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "d4d579cb-f3b6-4f6b-b1be-0f1bb6a328e5",
+    "brand": "Honda",
+    "year": 2010,
+    "name": "Ranchero",
+    "priceDKK": 385000,
+    "kilometersDriven": 898313,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "763347c9-baae-4ae7-b33a-12b6cce8f25e",
+    "brand": "Skoda",
+    "year": 2024,
+    "name": "Jetta",
+    "priceDKK": 323000,
+    "kilometersDriven": 784423,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "710b8c9f-ebf1-4446-96a2-55427f3dc988",
+    "brand": "BMW",
+    "year": 2016,
+    "name": "Grand Caravan",
+    "priceDKK": 583000,
+    "kilometersDriven": 905367,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "11dedefc-cbc6-4601-aab9-2ee71a7a9d72",
+    "brand": "Volvo",
+    "year": 2022,
+    "name": "V90",
+    "priceDKK": 323000,
+    "kilometersDriven": 973689,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "d87da93c-55c4-45d2-bb3f-3f91358bbc15",
+    "brand": "Toyota",
+    "year": 2005,
+    "name": "Jetta",
+    "priceDKK": 510000,
+    "kilometersDriven": 295221,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "c1b67c1b-4ab8-4195-a0a0-9849976e55cb",
+    "brand": "SEAT",
+    "year": 2007,
+    "name": "2",
+    "priceDKK": 201000,
+    "kilometersDriven": 39593,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f0e902e0-1a5d-4d05-9d73-2d3c13bed163",
+    "brand": "FIAT",
+    "year": 2015,
+    "name": "Cruze",
+    "priceDKK": 893000,
+    "kilometersDriven": 250545,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "28d25555-8a13-46ef-ba6a-bb35406d91a1",
+    "brand": "Skoda",
+    "year": 2005,
+    "name": "Explorer",
+    "priceDKK": 229000,
+    "kilometersDriven": 231336,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "66cb334d-b829-4ddc-b7fd-26a2bbaf99c1",
+    "brand": "Renault",
+    "year": 2002,
+    "name": "1",
+    "priceDKK": 497000,
+    "kilometersDriven": 132413,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "c34d0744-0a3c-47c2-8ef3-13685ebc8971",
+    "brand": "FIAT",
+    "year": 2002,
+    "name": "Altima",
+    "priceDKK": 549000,
+    "kilometersDriven": 485964,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "6e1f12ab-9250-4cfc-802e-174d6d7fa1c6",
+    "brand": "Peugeot",
+    "year": 2012,
+    "name": "Countach",
+    "priceDKK": 15000,
+    "kilometersDriven": 667289,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "85681df3-de81-4fb7-8f49-15b37e38d67b",
+    "brand": "Dacia",
+    "year": 2001,
+    "name": "Fiesta",
+    "priceDKK": 429000,
+    "kilometersDriven": 862779,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "50ddd3cb-66d6-4a15-9471-a6f0e72dc322",
+    "brand": "Peugeot",
+    "year": 2022,
+    "name": "Focus",
+    "priceDKK": 19000,
+    "kilometersDriven": 207334,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "b7f74330-cd86-4d2a-ab62-edf067cdebe2",
+    "brand": "Dacia",
+    "year": 2001,
+    "name": "CTS",
+    "priceDKK": 570000,
+    "kilometersDriven": 73462,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "79c023f4-22b5-4e5a-b727-8f459fe42d38",
+    "brand": "Volvo",
+    "year": 2009,
+    "name": "Malibu",
+    "priceDKK": 726000,
+    "kilometersDriven": 421929,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "1968889c-8b39-4bb7-bc30-72ee37239726",
+    "brand": "Toyota",
+    "year": 2020,
+    "name": "Accord",
+    "priceDKK": 118000,
+    "kilometersDriven": 521458,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "40ceee21-6846-419d-9f1e-1db027771d9b",
+    "brand": "Toyota",
+    "year": 2022,
+    "name": "V90",
+    "priceDKK": 416000,
+    "kilometersDriven": 952035,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "ce5f2b85-b7c5-4f6d-9ad6-3ae7f69c9a5d",
+    "brand": "Volkswagen",
+    "year": 2010,
+    "name": "Roadster",
+    "priceDKK": 562000,
+    "kilometersDriven": 286349,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "68082b2c-31ee-4798-a3de-4987f84b21a4",
+    "brand": "Citroën",
+    "year": 2024,
+    "name": "Countach",
+    "priceDKK": 319000,
+    "kilometersDriven": 442291,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "ab4ff34e-8fcc-4705-856b-3893a61fe38f",
+    "brand": "SEAT",
+    "year": 2001,
+    "name": "Grand Caravan",
+    "priceDKK": 68000,
+    "kilometersDriven": 960176,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "c8842b97-c583-4353-8bbd-a33565b07c55",
+    "brand": "Dacia",
+    "year": 2015,
+    "name": "Camaro",
+    "priceDKK": 916000,
+    "kilometersDriven": 80498,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "9a9a1831-2818-468c-8c11-2e6bcc1ef181",
+    "brand": "Peugeot",
+    "year": 2011,
+    "name": "Taurus",
+    "priceDKK": 881000,
+    "kilometersDriven": 407787,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "94c31167-737c-432d-867f-72d61bd5be37",
+    "brand": "Skoda",
+    "year": 2008,
+    "name": "Silverado",
+    "priceDKK": 425000,
+    "kilometersDriven": 748453,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "999ec629-e38a-4b8e-91e0-9a1e4d6207c1",
+    "brand": "Dacia",
+    "year": 2019,
+    "name": "A4",
+    "priceDKK": 799000,
+    "kilometersDriven": 901377,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "fa33e9cf-d246-46ce-ad91-6bf5e72847aa",
+    "brand": "Peugeot",
+    "year": 2006,
+    "name": "Model Y",
+    "priceDKK": 972000,
+    "kilometersDriven": 608792,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "b042bd4c-b660-402f-94b1-1c9b9ee77ce4",
+    "brand": "Volvo",
+    "year": 2015,
+    "name": "Beetle",
+    "priceDKK": 556000,
+    "kilometersDriven": 16995,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "bf5c041c-1a8f-40c6-9e91-48010f3defb9",
+    "brand": "Dacia",
+    "year": 2009,
+    "name": "Model Y",
+    "priceDKK": 943000,
+    "kilometersDriven": 347820,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "0bc2e412-7a36-4acc-8674-d375f32d01e2",
+    "brand": "Toyota",
+    "year": 2014,
+    "name": "Sentra",
+    "priceDKK": 178000,
+    "kilometersDriven": 327678,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "a928c9e8-979d-4cf1-892c-571d150069a9",
+    "brand": "Toyota",
+    "year": 2021,
+    "name": "Volt",
+    "priceDKK": 411000,
+    "kilometersDriven": 641595,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "18b2a2b6-6f2f-4871-8924-c9d89b5f18d8",
+    "brand": "Honda",
+    "year": 2005,
+    "name": "XTS",
+    "priceDKK": 709000,
+    "kilometersDriven": 781323,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "e815afe5-08ae-47c7-aab4-9fe822dc6796",
+    "brand": "FIAT",
+    "year": 2023,
+    "name": "Camaro",
+    "priceDKK": 258000,
+    "kilometersDriven": 693569,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "9bfccb8b-b4fe-4ef8-b621-2ec564b1da0a",
+    "brand": "Skoda",
+    "year": 2017,
+    "name": "Corvette",
+    "priceDKK": 946000,
+    "kilometersDriven": 357017,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "26acad57-baea-4df2-b00e-99f8db4d70ea",
+    "brand": "Volkswagen",
+    "year": 2001,
+    "name": "Aventador",
+    "priceDKK": 334000,
+    "kilometersDriven": 744923,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "620af956-27c2-47fa-a005-f68306132b43",
+    "brand": "Dacia",
+    "year": 2023,
+    "name": "El Camino",
+    "priceDKK": 455000,
+    "kilometersDriven": 175471,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "4cc32117-b79c-469a-877b-4021aaf5ba3c",
+    "brand": "BMW",
+    "year": 2015,
+    "name": "XTS",
+    "priceDKK": 90000,
+    "kilometersDriven": 933629,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f9e46246-68cd-4dc6-941a-965ff400dd28",
+    "brand": "BMW",
+    "year": 2024,
+    "name": "Impala",
+    "priceDKK": 839000,
+    "kilometersDriven": 808638,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "105098e1-b113-4079-8c7a-df41f2f9a854",
+    "brand": "Skoda",
+    "year": 2020,
+    "name": "Escalade",
+    "priceDKK": 126000,
+    "kilometersDriven": 119132,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "a604244e-4106-48b9-a09a-67c3de6a4c25",
+    "brand": "Dacia",
+    "year": 2000,
+    "name": "Model Y",
+    "priceDKK": 291000,
+    "kilometersDriven": 812954,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "334626ac-b4fb-4a49-bed1-e30aaefff1ad",
+    "brand": "Volvo",
+    "year": 2009,
+    "name": "Prius",
+    "priceDKK": 815000,
+    "kilometersDriven": 719860,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "095812b4-ad41-4e9a-abc9-d3e757f97169",
+    "brand": "BMW",
+    "year": 2015,
+    "name": "ATS",
+    "priceDKK": 483000,
+    "kilometersDriven": 429450,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "38e23bb9-8f3f-4de2-bbf6-9239ce822885",
+    "brand": "SEAT",
+    "year": 2003,
+    "name": "ATS",
+    "priceDKK": 776000,
+    "kilometersDriven": 673765,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "8efc3fed-a8ef-4fc6-acf6-ff1c3a1492fa",
+    "brand": "Dacia",
+    "year": 2011,
+    "name": "Countach",
+    "priceDKK": 981000,
+    "kilometersDriven": 715408,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "41b08645-11ff-4848-ba87-e194c001771d",
+    "brand": "Dacia",
+    "year": 2012,
+    "name": "Alpine",
+    "priceDKK": 662000,
+    "kilometersDriven": 835924,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "e638a701-851f-4349-8949-7486de0e396b",
+    "brand": "Skoda",
+    "year": 2007,
+    "name": "Altima",
+    "priceDKK": 173000,
+    "kilometersDriven": 70490,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "2086fe65-411b-4d4e-8044-bc8542e3085a",
+    "brand": "Honda",
+    "year": 2022,
+    "name": "Explorer",
+    "priceDKK": 78000,
+    "kilometersDriven": 342243,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "0f5a2c49-29dd-455b-b51e-3300f637edc4",
+    "brand": "Peugeot",
+    "year": 2014,
+    "name": "Impala",
+    "priceDKK": 223000,
+    "kilometersDriven": 399228,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "ca717811-463b-4bc3-b112-b4103bb37151",
+    "brand": "SEAT",
+    "year": 2023,
+    "name": "Challenger",
+    "priceDKK": 296000,
+    "kilometersDriven": 226090,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "8848353c-6ca0-4dcd-905a-16b812e55eca",
+    "brand": "Volkswagen",
+    "year": 2009,
+    "name": "Element",
+    "priceDKK": 325000,
+    "kilometersDriven": 480673,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "60503569-48af-486d-8a95-0987dc62ff50",
+    "brand": "Volkswagen",
+    "year": 2005,
+    "name": "Silverado",
+    "priceDKK": 697000,
+    "kilometersDriven": 416200,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "1766f21e-caba-44c8-a701-7c27b1540c3c",
+    "brand": "Toyota",
+    "year": 2024,
+    "name": "Camry",
+    "priceDKK": 437000,
+    "kilometersDriven": 690441,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "e9920d10-00e8-4865-a053-3c68f4d41d85",
+    "brand": "Citroën",
+    "year": 2005,
+    "name": "LeBaron",
+    "priceDKK": 49000,
+    "kilometersDriven": 850515,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "2c368b8b-b4c2-483a-9fc8-5fdd72adaf2f",
+    "brand": "SEAT",
+    "year": 2016,
+    "name": "Prius",
+    "priceDKK": 462000,
+    "kilometersDriven": 814511,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "f5fb6d03-e7cf-42e1-8639-6d97a728f9a1",
+    "brand": "Toyota",
+    "year": 2017,
+    "name": "CTS",
+    "priceDKK": 473000,
+    "kilometersDriven": 810804,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "4af62c60-7cac-4e52-8a2a-2fa2f54a3f3c",
+    "brand": "Volvo",
+    "year": 2006,
+    "name": "Model Y",
+    "priceDKK": 668000,
+    "kilometersDriven": 274042,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "32b1b1bd-a665-451c-a90d-6dd72242884b",
+    "brand": "Citroën",
+    "year": 2024,
+    "name": "Wrangler",
+    "priceDKK": 965000,
+    "kilometersDriven": 201967,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "3de8e7d8-e6f9-48ba-84e4-3cd7d7c6f829",
+    "brand": "Peugeot",
+    "year": 2020,
+    "name": "Spyder",
+    "priceDKK": 1000000,
+    "kilometersDriven": 417847,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "3606cdcd-12ff-4d61-9e08-ceeed653f81e",
+    "brand": "Skoda",
+    "year": 2021,
+    "name": "Cruze",
+    "priceDKK": 598000,
+    "kilometersDriven": 561713,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "7870d3a6-c45f-4d83-b40b-a659f8d6975c",
+    "brand": "Volvo",
+    "year": 2009,
+    "name": "Element",
+    "priceDKK": 993000,
+    "kilometersDriven": 973691,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "8e1a7829-2771-4e33-a1c8-61a335e33733",
+    "brand": "Toyota",
+    "year": 2001,
+    "name": "LeBaron",
+    "priceDKK": 243000,
+    "kilometersDriven": 234747,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "7e945de3-1d40-432b-ac81-69413dffad14",
+    "brand": "Skoda",
+    "year": 2010,
+    "name": "Grand Caravan",
+    "priceDKK": 960000,
+    "kilometersDriven": 938350,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "55fd6e2f-d84f-41c5-adc9-2e3eff60fa39",
+    "brand": "Citroën",
+    "year": 2020,
+    "name": "V90",
+    "priceDKK": 276000,
+    "kilometersDriven": 227286,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "8d471f18-c702-4b83-b245-1e6fef4a0109",
+    "brand": "Skoda",
+    "year": 2014,
+    "name": "Focus",
+    "priceDKK": 923000,
+    "kilometersDriven": 168574,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  },
+  {
+    "id": "9089b7bf-b584-4d09-9c02-c335679df035",
+    "brand": "Skoda",
+    "year": 2012,
+    "name": "PT Cruiser",
+    "priceDKK": 574000,
+    "kilometersDriven": 182599,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg/1200px-2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+  }
+]
