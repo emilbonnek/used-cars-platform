@@ -10,8 +10,8 @@ export type User = Output<typeof UserSchema>;
 /**
  * Get the current user from the data/user.json file
  */
-export async function getUser(): Promise<User> {
-  const response = await fetch("/data/user.json");
+export async function getUser(signal: AbortSignal): Promise<User> {
+  const response = await fetch("/data/user.json", { signal });
   const json = await response.json();
   const user = parse(UserSchema, json);
   return user;

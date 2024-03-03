@@ -1,11 +1,28 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { getUser } from "../api/user";
-import { getListings } from "../api/listings";
+import {
+  LISTING_MAX_KILOMETERS_DRIVEN,
+  LISTING_MAX_PRICE,
+  LISTING_MIN_KILOMETERS_DRIVEN,
+  LISTING_MIN_PRICE,
+  getListings,
+} from "../api/listings";
 
 export const Route = createFileRoute("/")({
   component: Index,
-  loader: async () => {
-    const [user, listings] = await Promise.all([getUser(), getListings()]);
+  loader: async ({ abortController }) => {
+    const [user, listings] = await Promise.all([
+      getUser(abortController.signal),
+      getListings(
+        {
+          minPrice: LISTING_MIN_PRICE,
+          maxPrice: LISTING_MAX_PRICE,
+          minKilometersDriven: LISTING_MIN_KILOMETERS_DRIVEN,
+          maxKilometersDriven: LISTING_MAX_KILOMETERS_DRIVEN,
+        },
+        abortController.signal
+      ),
+    ]);
     const listingsCount = listings.length;
     return { user, listingsCount };
   },
