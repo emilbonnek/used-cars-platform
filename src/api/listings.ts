@@ -33,10 +33,12 @@ export const LISTING_BRAND_OPTIONS = [
 ] as const;
 export const LISTING_MIN_YEAR = 2000;
 export const LISTING_MAX_YEAR = 2024;
-export const LISTING_MIN_PRICE = 1;
+export const LISTING_MIN_PRICE = 0;
 export const LISTING_MAX_PRICE = 1_000_000;
+export const LISTING_STEP_PRICE = 1000;
 export const LISTING_MIN_KILOMETERS_DRIVEN = 0;
 export const LISTING_MAX_KILOMETERS_DRIVEN = 1_000_000;
+export const LISTING_STEP_KILOMETERS_DRIVEN = 1000;
 
 export const ListingBrand = picklist(LISTING_BRAND_OPTIONS);
 export const ListingYear = number([
@@ -65,7 +67,7 @@ export const Listing = object({
 });
 export type Listing = Output<typeof Listing>;
 
-export const ListingSearch = object({
+export const ListingFilter = object({
   brand: fallback(optional(ListingBrand), undefined),
   year: fallback(optional(coerce(ListingYear, Number)), undefined),
   minPrice: fallback(coerce(ListingPrice, Number), LISTING_MIN_PRICE),
@@ -82,17 +84,17 @@ export const ListingSearch = object({
     LISTING_MAX_KILOMETERS_DRIVEN
   ),
 });
-export type ListingSearch = Output<typeof ListingSearch>;
+export type ListingFilter = Output<typeof ListingFilter>;
 
 /**
  * Get listings from the data/listings.json file and filter them based on search parameters
  *
- * @param search - The search parameters
+ * @param listingFilter - The search parameters
  * @param signal - The abort signal
  * @returns The listings
  */
 export async function getListings(
-  search: ListingSearch,
+  listingFilter: ListingFilter,
   signal: AbortSignal
 ): Promise<Listing[]> {
   await rangeDelay(DELAY_MIN_MS, DELAY_MAX_MS, { signal });
@@ -102,12 +104,12 @@ export async function getListings(
 
   const filteredListings = listings.filter((listing) => {
     return (
-      (!search.brand || listing.brand === search.brand) &&
-      (!search.year || listing.year === search.year) &&
-      listing.priceDKK >= search.minPrice &&
-      listing.priceDKK <= search.maxPrice &&
-      listing.kilometersDriven >= search.minKilometersDriven &&
-      listing.kilometersDriven <= search.maxKilometersDriven
+      (!listingFilter.brand || listing.brand === listingFilter.brand) &&
+      (!listingFilter.year || listing.year === listingFilter.year) &&
+      listing.priceDKK >= listingFilter.minPrice &&
+      listing.priceDKK <= listingFilter.maxPrice &&
+      listing.kilometersDriven >= listingFilter.minKilometersDriven &&
+      listing.kilometersDriven <= listingFilter.maxKilometersDriven
     );
   });
 
