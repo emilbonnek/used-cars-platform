@@ -70,8 +70,6 @@ function Listings() {
   const { defferedListings, defferedListingsCount } = Route.useLoaderData();
   const { pageSize, page, ...search } = Route.useSearch();
 
-  console.log(page);
-
   return (
     <div>
       <div className="flex flex-col justify-between gap-4 bg-slate-100 px-2 py-6 md:flex-row">
