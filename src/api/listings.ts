@@ -85,9 +85,10 @@ export const ListingSearch = object({
 export type ListingSearch = Output<typeof ListingSearch>;
 
 /**
- * Get listings from the data/listings.json file
+ * Get listings from the data/listings.json file and filter them based on search parameters
  *
  * @param search - The search parameters
+ * @param signal - The abort signal
  * @returns The listings
  */
 export async function getListings(
@@ -111,4 +112,26 @@ export async function getListings(
   });
 
   return filteredListings;
+}
+
+/**
+ * Get listing from the data/listings.json file based on id
+ *
+ * @param id - The id of the listing
+ * @param signal - The abort signal
+ * @returns The listing
+ */
+export async function getListing(
+  id: string,
+  signal: AbortSignal
+): Promise<Listing> {
+  await rangeDelay(DELAY_MIN_MS, DELAY_MAX_MS, { signal });
+  const response = await fetch("/data/listings.json", { signal });
+  const json = await response.json();
+  const listings = parse(array(Listing), json);
+  const listing = listings.find((listing) => listing.id === id);
+  if (!listing) {
+    throw new Error("Listing not found");
+  }
+  return listing;
 }

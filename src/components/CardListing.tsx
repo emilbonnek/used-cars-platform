@@ -1,3 +1,4 @@
+import { Link } from "@tanstack/react-router";
 import { Listing } from "../api/listings";
 
 interface CardListingProps {
@@ -14,7 +15,13 @@ export function CardListing({ listing }: CardListingProps) {
         <p className="text-sm leading-none">{listing.kilometersDriven} km</p>
         <div className="flex items-end gap-4 mt-auto">
           <h3 className="font-semibold">{listing.priceDKK} DKK</h3>
-          <button className="text-sm text-blue-600">View</button>
+          <Link
+            className="text-sm underline"
+            to="/listings/$id"
+            params={{ id: listing.id }}
+          >
+            View
+          </Link>
         </div>
       </div>
       <img
