@@ -1,30 +1,23 @@
-# React + TypeScript + Vite
+# Used Cars Platform task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live demo: [https://used-cars-platform.vercel.app](https://used-cars-platform.vercel.app)
 
-Currently, two official plugins are available:
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fused-cars-platform.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Running the project
 
-## Expanding the ESLint configuration
+Install dependencies:
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+```bash
+npm install
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Run the development server:
+
+```bash
+npm run dev
+```
+
+## Tools and Dependencies
+
+I have chosen to use [Vite](https://vitejs.dev/) with [React](https://react.dev/) for this task. On top of React I have used [Tanstack Router](https://tanstack.com/router) for type-safe routing including handling of query parameters as state. I have used the routers own data loading for fetching and caching the listings and user, as opposed to using something like [Tanstack/React Query](https://tanstack.com/query). [Tailwind CSS](https://tailwindcss.com/) is used for styling. My solution is written in [TypeScript](https://www.typescriptlang.org/), and I have used [Valibot](https://valibot.dev/) (a modern alternative to Zod) for runtime schema validation.
