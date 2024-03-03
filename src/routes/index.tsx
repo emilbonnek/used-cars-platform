@@ -7,9 +7,11 @@ import {
   LISTING_MIN_PRICE,
   getListings,
 } from "../api/listings";
+import { Spinner } from "../components/Spinner";
 
 export const Route = createFileRoute("/")({
   component: Index,
+  pendingComponent: Spinner,
   loader: async ({ abortController }) => {
     const [user, listings] = await Promise.all([
       getUser(abortController.signal),
