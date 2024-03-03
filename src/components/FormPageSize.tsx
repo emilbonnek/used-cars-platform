@@ -19,7 +19,6 @@ export function FormPageSize({ search, onSubmit }: FormPageSizeProps) {
     resolver: valibotResolver(PageSizeObject),
   });
 
-  // Watch for changes to the form and submit the form when it changes
   useEffect(() => {
     const subscription = watch(() => handleSubmit(onSubmit)());
     return () => subscription.unsubscribe();
@@ -31,9 +30,17 @@ export function FormPageSize({ search, onSubmit }: FormPageSizeProps) {
         onSubmit(newSearch);
       })}
     >
-      <div>
-        <label htmlFor="pageSize">Per page</label>
-        <select {...register("pageSize")}>
+      <div className="px-8">
+        <label
+          htmlFor="pageSize"
+          className="mb-2 block text-nowrap text-sm font-bold text-gray-700"
+        >
+          Per page
+        </label>
+        <select
+          {...register("pageSize")}
+          className="focus:shadow-outline w-full appearance-none rounded border px-3 py-2 leading-tight text-gray-700 shadow focus:outline-none"
+        >
           {PAGE_SIZE_OPTIONS.map((pageSize) => (
             <option key={pageSize} value={pageSize}>
               {pageSize}
