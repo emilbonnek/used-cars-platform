@@ -1,3 +1,4 @@
+import { rangeDelay } from "delay";
 import {
   Output,
   array,
@@ -14,6 +15,7 @@ import {
   string,
   uuid,
 } from "valibot";
+import { DELAY_MAX_MS, DELAY_MIN_MS } from "../delay";
 
 export const LISTING_BRAND_OPTIONS = [
   "Toyota",
@@ -92,6 +94,7 @@ export async function getListings(
   search: ListingSearch,
   signal: AbortSignal
 ): Promise<Listing[]> {
+  await rangeDelay(DELAY_MIN_MS, DELAY_MAX_MS, { signal });
   const response = await fetch("/data/listings.json", { signal });
   const json = await response.json();
   const listings = parse(array(Listing), json);
