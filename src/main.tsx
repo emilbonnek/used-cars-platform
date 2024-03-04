@@ -2,10 +2,10 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import { RouterProvider, createRouter } from "@tanstack/react-router";
+import { Spinner } from "./components/Spinner";
 
 // Import the generated route tree
 import { routeTree } from "./routeTree.gen";
-import { Spinner } from "./components/Spinner";
 
 // Create a new router instance
 const router = createRouter({
