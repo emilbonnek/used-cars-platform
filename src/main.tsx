@@ -10,7 +10,6 @@ import { routeTree } from "./routeTree.gen";
 // Create a new router instance
 const router = createRouter({
   routeTree,
-  defaultPreload: "intent",
   defaultPendingMs: 0,
   defaultPendingMinMs: 1500,
   defaultPendingComponent: Spinner,
