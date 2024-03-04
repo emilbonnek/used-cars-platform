@@ -11,15 +11,15 @@
 // Import Routes
 
 import { Route as rootRoute } from './routes/__root'
-import { Route as LayoutImport } from './routes/_layout'
+import { Route as ListingsImport } from './routes/listings'
 import { Route as IndexImport } from './routes/index'
+import { Route as ListingsIndexImport } from './routes/listings.index'
 import { Route as ListingsIdImport } from './routes/listings_.$id'
-import { Route as LayoutListingsImport } from './routes/_layout.listings'
 
 // Create/Update Routes
 
-const LayoutRoute = LayoutImport.update({
-  id: '/_layout',
+const ListingsRoute = ListingsImport.update({
+  path: '/listings',
   getParentRoute: () => rootRoute,
 } as any)
 
@@ -28,14 +28,14 @@ const IndexRoute = IndexImport.update({
   getParentRoute: () => rootRoute,
 } as any)
 
+const ListingsIndexRoute = ListingsIndexImport.update({
+  path: '/',
+  getParentRoute: () => ListingsRoute,
+} as any)
+
 const ListingsIdRoute = ListingsIdImport.update({
   path: '/listings/$id',
   getParentRoute: () => rootRoute,
-} as any)
-
-const LayoutListingsRoute = LayoutListingsImport.update({
-  path: '/listings',
-  getParentRoute: () => LayoutRoute,
 } as any)
 
 // Populate the FileRoutesByPath interface
@@ -46,17 +46,17 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexImport
       parentRoute: typeof rootRoute
     }
-    '/_layout': {
-      preLoaderRoute: typeof LayoutImport
+    '/listings': {
+      preLoaderRoute: typeof ListingsImport
       parentRoute: typeof rootRoute
-    }
-    '/_layout/listings': {
-      preLoaderRoute: typeof LayoutListingsImport
-      parentRoute: typeof LayoutImport
     }
     '/listings/$id': {
       preLoaderRoute: typeof ListingsIdImport
       parentRoute: typeof rootRoute
+    }
+    '/listings/': {
+      preLoaderRoute: typeof ListingsIndexImport
+      parentRoute: typeof ListingsImport
     }
   }
 }
@@ -65,7 +65,7 @@ declare module '@tanstack/react-router' {
 
 export const routeTree = rootRoute.addChildren([
   IndexRoute,
-  LayoutRoute.addChildren([LayoutListingsRoute]),
+  ListingsRoute.addChildren([ListingsIndexRoute]),
   ListingsIdRoute,
 ])
 

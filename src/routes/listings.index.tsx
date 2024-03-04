@@ -4,7 +4,7 @@ import { CardListing } from "../components/CardListing";
 import { Spinner } from "../components/Spinner";
 import { NavPagination } from "../components/NavPagination";
 
-export const Route = createFileRoute("/_layout/listings")({
+export const Route = createFileRoute("/listings/")({
   component: Listings,
   pendingComponent: Spinner,
   pendingMs: 0,

@@ -9,7 +9,7 @@ import { Spinner } from "../components/Spinner";
 const ListingsFilterAndPaginate = merge([ListingFilter, Paginate]);
 type ListingsFilterAndPaginate = Output<typeof ListingsFilterAndPaginate>;
 
-export const Route = createFileRoute("/_layout")({
+export const Route = createFileRoute("/listings")({
   component: ListingsLayout,
   pendingComponent: Spinner,
   validateSearch: (search: Record<string, unknown>) =>
