@@ -7,8 +7,6 @@ import { NavPagination } from "../components/NavPagination";
 export const Route = createFileRoute("/listings/")({
   component: Listings,
   pendingComponent: Spinner,
-  pendingMs: 0,
-  pendingMinMs: 1500,
   loaderDeps: ({ search }) => search,
   loader: async ({
     deps: { pageSize, page, ...listingSearch },
