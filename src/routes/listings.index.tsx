@@ -1,12 +1,10 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { getListings } from "../api/listings";
 import { CardListing } from "../components/CardListing";
-import { Spinner } from "../components/Spinner";
 import { NavPagination } from "../components/NavPagination";
 
 export const Route = createFileRoute("/listings/")({
   component: Listings,
-  pendingComponent: Spinner,
   loaderDeps: ({ search }) => search,
   loader: async ({
     deps: { pageSize, page, ...listingSearch },

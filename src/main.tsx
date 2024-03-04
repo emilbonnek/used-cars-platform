@@ -5,6 +5,7 @@ import { RouterProvider, createRouter } from "@tanstack/react-router";
 
 // Import the generated route tree
 import { routeTree } from "./routeTree.gen";
+import { Spinner } from "./components/Spinner";
 
 // Create a new router instance
 const router = createRouter({
@@ -12,6 +13,7 @@ const router = createRouter({
   defaultPreload: "intent",
   defaultPendingMs: 0,
   defaultPendingMinMs: 1500,
+  defaultPendingComponent: Spinner,
 });
 
 // Register the router instance for type safety

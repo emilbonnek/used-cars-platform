@@ -4,14 +4,12 @@ import { Output, merge, parse } from "valibot";
 import { FormListingSearch } from "../components/FormListingSearch";
 import { Paginate } from "../pagination";
 import { FormPageSize } from "../components/FormPageSize";
-import { Spinner } from "../components/Spinner";
 
 const ListingsFilterAndPaginate = merge([ListingFilter, Paginate]);
 type ListingsFilterAndPaginate = Output<typeof ListingsFilterAndPaginate>;
 
 export const Route = createFileRoute("/listings")({
   component: ListingsLayout,
-  pendingComponent: Spinner,
   validateSearch: (search: Record<string, unknown>) =>
     parse(ListingsFilterAndPaginate, search),
 });

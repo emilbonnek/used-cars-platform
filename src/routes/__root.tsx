@@ -8,7 +8,6 @@ export const Route = createRootRoute({
   component: () => (
     <>
       <NavMain />
-      <hr />
       <Outlet />
       <TanStackRouterDevtools />
     </>

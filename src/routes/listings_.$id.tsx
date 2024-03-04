@@ -1,10 +1,8 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { getListing } from "../api/listings";
-import { Spinner } from "../components/Spinner";
 
 export const Route = createFileRoute("/listings/$id")({
   component: ListingId,
-  pendingComponent: Spinner,
   loader: async ({ params, abortController }) => {
     return getListing(params.id, abortController.signal);
   },
